@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  x_value: 9.99
+  'y': 
+  z_value: 9.99
+
+two:
+  x_value: 9.99
+  'y': 
+  z_value: 9.99
